@@ -171,4 +171,3 @@ Steps:
 ##  Disclaimer
 
 All testing performed in PortSwigger Web Security Academy labs for educational purposes only.
-is it ok to add this as single in readme?
